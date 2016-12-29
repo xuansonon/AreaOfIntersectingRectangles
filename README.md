@@ -4,7 +4,6 @@ A console-based application written in C++ that allows users to find the area of
 
 The application will take in two different rectangles (specifically two x,y coordinates), and it will begin to search for intersecting values (i.e. the red rectangle above). Once the values are found, the area of that shape will be returned.
 <br />
-<br />
 **How to compile the application**<br />
 On linux terminals:
 ```
